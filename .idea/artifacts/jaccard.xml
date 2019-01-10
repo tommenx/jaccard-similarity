@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jaccard">
+    <output-path>$PROJECT_DIR$/out/artifacts/jaccard</output-path>
+    <root id="archive" name="jaccard.jar">
+      <element id="module-output" name="jaccard" />
+    </root>
+  </artifact>
+</component>
